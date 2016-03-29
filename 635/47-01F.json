@@ -1,0 +1,82 @@
+{
+    "aliquot": 1, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "D:15&17 Combine 5.94+4.72 mg", 
+    "commit": "7e8f6450b5687311cfdb1ae530e813620b45d9cc", 
+    "detectors": {
+        "AX": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "CDD": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H2": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L2": {
+            "deflection": null, 
+            "gain": null
+        }
+    }, 
+    "extraction": "", 
+    "identifier": "63547", 
+    "increment": 5, 
+    "irradiation": "NM-275", 
+    "irradiation_level": "D", 
+    "irradiation_position": 10, 
+    "isotopes": {
+        "Ar36": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "jan", 
+    "material": "Plag", 
+    "measurement": "", 
+    "project": "Cascades", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Cascades", 
+    "sample": "05-3c", 
+    "spec_sha": "63bdfa621e4e1990f6b1c8e455b6f6c457aa09ff", 
+    "timestamp": "2015-04-09T20:38:56", 
+    "username": "Heizler", 
+    "uuid": "98ca0633-6589-42fe-ad03-04f12b89b474"
+}
